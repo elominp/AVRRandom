@@ -1,0 +1,2 @@
+initSeed    KEYWORD2        
+getSeed KEYWORD2        
